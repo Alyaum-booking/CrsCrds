@@ -3,7 +3,6 @@ import pandas as pd
 import os
 import hashlib
 from datetime import datetime
-import matplotlib.pyplot as plt
 import arabic_reshaper
 from bidi.algorithm import get_display
 
