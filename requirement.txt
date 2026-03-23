@@ -1,0 +1,8 @@
+ streamlit  
+ pandas 
+ os
+ hashlib
+ datetime
+ matplotlib.pyplot 
+ arabic_reshaper
+ get_display
